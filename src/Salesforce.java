@@ -1,8 +1,5 @@
 import java.sql.*;
 public class Salesforce {
-    static Connection connection = null;
-    static DatabaseMetaData metadata = null;
-
     public static void main(String args[]) throws SQLException {
         //Registering the Driver
         Connection connection = null;

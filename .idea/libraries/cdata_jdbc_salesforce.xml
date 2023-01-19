@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cdata.jdbc.salesforce">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/CData/CData JDBC Driver for Salesforce 2022/lib/cdata.jdbc.salesforce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
